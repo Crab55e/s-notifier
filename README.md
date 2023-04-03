@@ -4,5 +4,11 @@ S高の勉強時間になったらwindowsの通知を送ってくれるプログ
 ## requirements
 Pythonがインストールされていることを前提に
 ライブラリ:
-- ctypes (標準ライブラリ)
-- time (標準ライブラリ)
+- ctypes*
+- datetime*
+- time*
+- win11toast
+(*標準ライブラリ)
+
+## setting
+設定は`main.py`の変数、settingsから行えます
