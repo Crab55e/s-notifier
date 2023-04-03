@@ -8,6 +8,7 @@ Pythonがインストールされていることを前提に
 - datetime*
 - time*
 - win11toast
+
 (*標準ライブラリ)
 
 ## setting
